@@ -2,7 +2,7 @@
 
 A **Pokémon-themed memory game** built with **React**, where players match Pokémon from a pixelated retro interface inspired by classic Game Boy Advance visuals.
 
-![MemoryDex Banner](./assets/banner.png) <!-- Optional banner image -->
+![MemoryDex Banner](./MemoryDex.png) <!-- Optional banner image -->
 
 ---
 
