@@ -20,7 +20,7 @@ A **Pokémon-themed memory game** built with **React**, where players match Pok�
 
 ### 🚀 Live Demo
 
-> [🌐 Play MemoryDex Now](https://your-demo-link.com)
+> [🌐 Play MemoryDex Now](https://karthikn-vr.github.io/Memory-Game-React/)
 
 ---
 
